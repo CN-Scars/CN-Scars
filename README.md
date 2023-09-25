@@ -29,7 +29,7 @@
 ![LineageOS](https://img.shields.io/badge/-LineageOS-192133?style=flat-square&logo=LineageOS)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-192133?style=flat-square&logo=Windows)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studi o%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-192133?style=flat-square&logo=Postman)&nbsp;
 ![OpenAI](https://img.shields.io/badge/-OpenAI-192133?style=flat-square&logo=OpenAI)&nbsp;
 ![Google](https://img.shields.io/badge/-Google-192133?style=flat-square&logo=Google)&nbsp;
